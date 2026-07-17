@@ -1,0 +1,4 @@
+scenario,revenue_base_gbp,allocation_rate,calculated_allocation_gbp,status
+OBR 2025-26 UK ETS forecast,2600000000,0.025,65000000,Forecast
+DESNZ audited 2024-25 UK ETS auction income,2521910000,0.025,63047750,Audited historical comparator
+Illustrative receipt year,3000000000,0.025,75000000,Illustrative
